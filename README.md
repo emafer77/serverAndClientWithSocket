@@ -9,3 +9,4 @@ Este proyecto implementa un sistema de comunicación entre un servidor y múltip
 - **Soporte para múltiples clientes**: Varios clientes pueden conectarse al servidor de manera simultánea.
 - **Comunicaciones seguras**: Las comunicaciones entre cliente y servidor utilizan serialización con `pickle` para enviar y recibir datos.
 
+  **Ejemplo de uso**: -![imagen ilustrativa](./imegenesParaREADME/ejemplo.png
